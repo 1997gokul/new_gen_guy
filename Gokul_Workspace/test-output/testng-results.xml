@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2019-09-04T06:44:35Z" finished-at="2019-09-04T06:44:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2019-09-04T06:44:35Z" finished-at="2019-09-04T06:44:35Z">
+      <class name="Gokul_package.NewTestMg1">
+        <test-method status="PASS" signature="bs()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="bs" is-config="true" duration-ms="15" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method status="PASS" signature="bt()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="bt" is-config="true" duration-ms="0" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="bc()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="bc" is-config="true" duration-ms="1" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="bm" is-config="true" duration-ms="0" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="f1()[pri:1, instance:Gokul_package.NewTestMg1@5056dfcb]" name="f1" duration-ms="7" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="am" is-config="true" duration-ms="1" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="ac" is-config="true" duration-ms="2" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method status="PASS" signature="at()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="at" is-config="true" duration-ms="1" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method status="PASS" signature="af()[pri:0, instance:Gokul_package.NewTestMg1@5056dfcb]" name="af" is-config="true" duration-ms="0" started-at="2019-09-04T12:14:35Z" finished-at="2019-09-04T12:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- Gokul_package.NewTestMg1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
